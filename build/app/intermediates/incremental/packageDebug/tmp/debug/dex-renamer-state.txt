@@ -1,0 +1,4 @@
+#Sat Mar 23 13:39:41 EDT 2019
+base.0=/home/kiko/AndroidStudioProjects/sign_stealer/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
